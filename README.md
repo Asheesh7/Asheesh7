@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Asheesh7
-- 👀 I’m interested in web development majorly JS and React
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front-end projects
-- 📫 How to reach me 
+- 👋 Hi, I’m @Asheesh7, a web dev and mobile-app dev enthusiast with more or less 4 years of experience in the field.
+- I fancy developing apps using javascript libraries like: NextJS, React and so on.
 - email: lettertoasheesh@gmal.com
 
 <!---
